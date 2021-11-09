@@ -4,7 +4,7 @@
 apt install python
 apt install git
 git clone https://github.com/DK77-sys/Revip
-cd reverse-ip
+cd Revip
 ```
 > Install Module
 ```
