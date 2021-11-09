@@ -1,7 +1,9 @@
 # Simple Reverse IP
+Python3
 Features:
 With Threading
 Mass Reverse IP From List
 
-Kalo Mau Recode Jangan Ilangin Authornya Ya Pantek
-Recode Ngilangin Author:Yatim 7 Turunan
+# Usage
+pip3 install -r requirements.txt
+python3 rev.py
