@@ -1,9 +1,17 @@
-# Simple Reverse IP
-Python3
-Features:
-With Threading
-Mass Reverse IP From List
-
-# Usage
-### pip3 install -r requirements.txt
-### python3 rev.py
+### How to use
+> Install python & git
+```
+apt install python
+apt install git
+git clone https://github.com/404rgr/reverse-ip
+cd reverse-ip
+```
+> Install Module
+```
+pip3 install requests
+```
+> Run Tools
+```
+python3 rev.py
+```
+This tool works only python3 Version
