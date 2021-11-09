@@ -3,7 +3,7 @@
 ```
 apt install python
 apt install git
-git clone https://github.com/404rgr/reverse-ip
+git clone https://github.com/DK77-sys/Revip
 cd reverse-ip
 ```
 > Install Module
