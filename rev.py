@@ -13,7 +13,7 @@ class Reverse_IP():
         print("\n" + gr)
 
     def revip(self,ip):
-        r = requests.get(f"https://tr0yacrew.herokuapp.com/1/{ip}")
+        r = requests.get(f"https://tr0yacrew.herokuapp.com/rev/1/{ip}")
         j = json.loads(r.text)
         if "error" in r.text:
             print(bg.red("[BAD]") + fg.white(" [") + fg.blue(">>>") + fg.white("] ") + fg.yellow(ip))
